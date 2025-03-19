@@ -1,5 +1,7 @@
 # NearX dojo MultiverX
 
+Distributed blockchain network for next-gen applications. 
+
 ![logo](./assets/MultiverX-logo.jpg)
 
 Dojo [MultiversX](https://multiversx.com/)

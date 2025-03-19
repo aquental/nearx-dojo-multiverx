@@ -1,2 +1,3 @@
-# nearx-dojo-multiverx
+# NearX dojo MultiverX
+
 Dojo MultiversX

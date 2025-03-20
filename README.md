@@ -13,12 +13,14 @@ Dojo [MultiversX](https://multiversx.com/)
 
 [Devnet](https://devnet-wallet.multiversx.com/dashboard)
 
-[trx](https://devnet-explorer.multiversx.com/transactions/093aa9c7f771636c0a6d137a8e55258e19a5fddd9ff473f68b9d09b64763f3fc)
+[trx:093aa9c7f771636c0a6d137a8e55258e19a5fddd9ff473f68b9d09b64763f3fc](https://devnet-explorer.multiversx.com/transactions/093aa9c7f771636c0a6d137a8e55258e19a5fddd9ff473f68b9d09b64763f3fc)
 
 ```
 cargo install multiversx-sc-meta
 
-
+sc deploy tx hash: d4a5c84585f7e2f8f02d55758e44599178d0af1467b993c06c8f50c97c814d75
+deploy address: erd1qqqqqqqqqqqqqpgq5d0e6esg0un6vgx3ca6mcfq6kuakyw3jnjrswcqg6h
+new address: erd1qqqqqqqqqqqqqpgq5d0e6esg0un6vgx3ca6mcfq6kuakyw3jnjrswcqg6h
 ```
 
 </details>
